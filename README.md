@@ -34,3 +34,30 @@ This is a list
     * The Addams Family
     * Star Wars
     * Grown Ups
+<br>
+
+[ ](github.com)
+
+[go to github](github.com)
+
+<br>
+
+[my-github-link]: https://github.com/madamedem/notes
+[My Github Profile][my-github-link]
+
+<br>
+
+[Go to header](#header)
+
+<br>
+
+`This text` is inline code
+<br>
+
+```This is another inline code```
+<br>
+
+```javascript
+var num1 = 0;
+var num2 = 0;
+```
