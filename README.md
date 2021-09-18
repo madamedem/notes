@@ -74,3 +74,15 @@ Aligned Table
 | ----------------------------------------- | :---------------------------------------: | ----------------------------------------: |
 | Aligned Left                              | Aligned Center                            | Aligned Right                             |
 | Large string to show alignment is working | Large string to show alignment is working | Large string to show alignment is working |
+
+<br>
+
+<p class="prgrph"> This is a sample paragraph </p>
+<style>
+    .prgrph{
+        color:#31a1d6;
+        border: 1px solid #e8e9ea;
+        border-radius:15px;
+        padding:10px;
+    }
+</style> 
