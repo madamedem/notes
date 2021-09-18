@@ -70,7 +70,7 @@ Simple Table
 
 <br>
 Aligned Table
-| Header 1        | Header 2          | Header 3         |
-| --------------- | :---------------: | ---------------: |
-| Alogned Left    | Aligned Center    | Aligned Right    |
-| Row 1 Col 1     | Row 1 Col 2       | Row 1 Col 3      |
+| Header 1                                  | Header 2                                  | Header 3                                  |
+| ----------------------------------------- | :---------------------------------------: | ----------------------------------------: |
+| Aligned Left                              | Aligned Center                            | Aligned Right                             |
+| Large string to show alignment is working | Large string to show alignment is working | Large string to show alignment is working |
