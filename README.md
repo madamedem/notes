@@ -61,3 +61,16 @@ This is a list
 var num1 = 0;
 var num2 = 0;
 ```
+<br>
+
+Simple Table
+| Header 1    | Header 2    | Header 3    |
+| ----------- | ----------- | ----------- |
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+
+<br>
+Aligned Table
+| Header 1        | Header 2          | Header 3         |
+| --------------- | :---------------: | ---------------: |
+| Alogned Left    | Aligned Center    | Aligned Right    |
+| Row 1 Col 1     | Row 1 Col 2       | Row 1 Col 3      |
